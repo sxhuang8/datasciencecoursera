@@ -1,9 +1,5 @@
----
-output: html_document
----
-
 ## README
-Last updated on Thu Nov 13 18:44:25 2014 by Sarah Huang
+Last updated on Mon Nov 17 09:58:37 2014 by Sarah Huang
 
 ***
 

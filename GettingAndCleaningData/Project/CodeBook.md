@@ -1,9 +1,5 @@
----
-output: html_document
----
-
 ## CodeBook
-Last updated on Fri Nov 14 23:46:17 2014 by Sarah Huang
+Last updated on Mon Nov 17 10:26:04 2014 by Sarah Huang
 
 ***
 

@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 ## README
 Last updated on `r date()` by Sarah Huang
 
